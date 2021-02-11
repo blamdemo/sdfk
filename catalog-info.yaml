@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lk"
+  description: "kl"
+  annotations:
+    github.com/project-slug: blamdemo/sdfk
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/sdfk
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "ok"
